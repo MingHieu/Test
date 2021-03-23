@@ -3,12 +3,12 @@
     box-shadow: 3px 3px 2px;
 }
 p{
-    transform:translate(0,500%);
+    transform:translate(20%,500%);
     opacity:0;
 }
 h1{
     color:red;
-    transform:translate(55%,250%);
+    transform:translate(35%,250%);
     opacity:0;
 }
 .opacity{

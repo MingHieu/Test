@@ -14,10 +14,10 @@ h1{
 }
 @media only screen and (max-width:480px) {
     #btn{
-        transform:scale(1.5) translate(130%,100%);   
+        transform:scale(1.5) translate(100%,100%);   
     }
     p{
-        transform:scale(1) translate(-30%,500%);
+        transform:scale(.8) translate(-30%,500%);
     }
     h1{
         font-size:25px;
