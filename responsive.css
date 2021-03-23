@@ -17,7 +17,8 @@ h1{
         transform:scale(1.5) translate(100%,100%);   
     }
     p{
-        transform:scale(.6) translate(10%,500%);
+        font-size:8px;
+        transform:translate(10%,500%);
     }
     h1{
         font-size:25px;
