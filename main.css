@@ -1,0 +1,17 @@
+#btn{
+    transform:scale(2) translate(275%,100%);
+    box-shadow: 3px 3px 2px;
+}
+p{
+    transform:translate(0,500%);
+    opacity:0;
+}
+h1{
+    color:red;
+    transform:translate(40%,200%);
+    opacity:0;
+}
+.opacity{
+    opacity:1;
+}
+
