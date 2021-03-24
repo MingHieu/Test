@@ -2,6 +2,9 @@
     transform:scale(2) translate(275%,100%);
     box-shadow: 3px 3px 2px;
 }
+#btn:hover{
+    color:red;
+}
 p{
     transform:translate(20%,500%);
     opacity:0;
