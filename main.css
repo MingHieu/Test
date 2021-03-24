@@ -1,21 +1,24 @@
-#btn{
-    transform:scale(2) translate(275%,100%);
-    box-shadow: 3px 3px 2px black;
+#no,#yes{
+    box-shadow: 1px 1px 2px black;
+    margin:0 20px;
+    transform:scale(1.4);   
 }
-#btn:hover,
-#btn:active{
+#yes:hover,
+#yes:active,#no:hover,
+#no:active{
     color:red;
 }
 p{
-    transform:translate(20%,500%);
+    transform:translate(20%,0);
     opacity:0;
+    color:rgb(218, 72, 96);
 }
-h1{
+.animate__slideInDown{
     color:red;
-    transform:translate(35%,250%);
-    opacity:0;
 }
-.opacity{
+.animate__fadeInUp{
     opacity:1;
 }
-
+.no-opacity{
+    opacity:0;
+}
